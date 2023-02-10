@@ -1,2 +1,2 @@
 # python_course_labs
-#python labs for the course
+python labs for the course
